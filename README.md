@@ -18,16 +18,15 @@
 - The research assistant (RA) is expected to work 20 hours per week on the project, following the weekly project plan outlined in this repo.
 - The supervisor is expected to meet weekly with the RA for 30 minutes to provide feedback and assess progress on the project plan.
 - There are 16 folders in the repo under the `weekly` folder corresponding to the 16 weeks of planned work (20 hr/wk).
-- Each of the 16 folders contains a markdown report (`report.md`) listing the deliverables for that week. See for example the report for [week 1](https://github.com/AbeHandler/SpringRA/blob/main/weekly/week1/report.md)
+- Each of the 16 folders contains a markdown report (`report.md`) listing the deliverables for that week. See for example the report for [week 1](https://github.com/AbeHandler/SpringRA/blob/main/weekly/week1/report.md).
 - The supervisor and RA will use the folders to monitor progress. The supervisor and RA will fill out the markdown files in each weekly folder as we go. 
 - The supervisor is responsible for emailing a copy of the weekly markdown report to the graduate program director (GPD) to provide a progress update.
 - The supervisor expects that the research assistant meets each weekly deliverable on the project. 
 - It should be possible to complete the deliverable in 2 full days of work, more or less. If it seems like the deliverables are too demanding or not demanding enough, the RA and the supervisor can adjust as needed. 
-- Use this repo to store all notes and materials from the collaboration.
 
 ## Important deadlines and weekly time table
 - The supervisor will review weekly deliverables every **Friday at 5:00 PM**
-- The RA is responsible for submitting all weekly deliverables to this repo
+- The RA is responsible for submitting all weekly deliverables to this repo by **Friday at 5:00 PM**.
 - The RA supervisor will email a copy of the weekly `report.md` to the **Graduate Program Director** by Monday at 5:00 PM.
 
 ## Project plan
