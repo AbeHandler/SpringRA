@@ -50,38 +50,54 @@
 - Pursuing Impactful Entrepreneurship Research Using Artificial Intelligence, [Lévesque et al. (2022)](https://journals.sagepub.com/doi/pdf/10.1177/1042258720927369)
 - Are there more like the above? AH is not sure yet.
 
+# Phase 1: Review of computationally-driven theory development (weeks 1 to 5)
+
 ## Week 1
-- See week1/report.md
+- Review Berente et al. (2018), Miranda et al. (2022) and Kar et al. (2023).
+- Collect inbound citations
+- See `week1/report.md` for details
 
 ## Week 2
-- Deliverable: 100 of the papers in the repo under PDFs. The organization schema is: first authors's last name (Year)
+- During the week, supervisor and RA will review titles of all inbound citations and flag the papers that warrant further review. This may require defining a schema.
+- Collect PDFs of 100 of the papers that warrant review and save under PDFs. The organization schema is: first authors's last name (Year)
 
 ## Week 3
-- What methods are used? Empirical paper? Methods: ... Yaml doc. 100 papers
+- Collect any remaining PDFs of papers that warrant review and save under PDFs.
+- Start to review and categorize papers. Build a yaml file for each paper w/ its metadata (e.g., on page 3 they say they use this method)
 
 ## Week 4
-- Set a weekly meeting time, review expectations.  100 papers
-
-# Unit 2: What is happening in CS?
-
-- NLP+CSS workshops
+- Continue to review and categorize papers
 
 ## Week 5
-- Set a weekly meeting time, review expectations.
-- Deliverable: 100 of the papers in the repo under PDFs. The organization schema is: first authors's last name (Year)
+- Continue to review and categorize papers
+
+# Phase 2: Review of related literature in Computer Science and how do they connect to specific conversations in IS (weeks 6 to 10)
+
+Notes:
+	- NLP+CSS workshops
+	- Text as data
+	- What are the epistemological foundations of theory and are they commensurate with the kinds of work that happens in CS? For example, theory is often deductive but related areas of CS are often inductive (finding patterns in data).
 
 ## Week 6
-- Deliverable: 100 of the papers in the repo under PDFs. The organization schema is: first authors's last name (Year)
-
 ## Week 7
-- What methods are used? Empirical paper? Methods: ... Yaml doc. 100 papers
-
 ## Week 8
-- Set a weekly meeting time, review expectations.  100 papers
 
-What are the epistemological foundations of theory and are they commensurate with the kinds of work that happens in CS? For example, theory is often deductive but related areas of CS are often inductive (finding patterns in data).
+## Week 9
 
-### Questions?
+- Spring break 😎. Nothing to do.
+
+## Week 10
+
+# Phase 3: Writing and synthesis (weeks 11 to 16)
+
+## Week 11
+## Week 12
+## Week 13
+## Week 14
+## Week 15
+## Week 16
+
+# Big Unknown Questions?
 - Are there parallel conversations in other areas of business research?
 - Is there something special about text data specifically?
 
