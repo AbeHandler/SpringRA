@@ -25,9 +25,9 @@
 - It should be possible to complete the deliverable in 2 full days of work, more or less. If it seems like the deliverables are too demanding or not demanding enough, the RA and the supervisor can adjust as needed. 
 
 ## Important deadlines and weekly time table
-- The supervisor will review weekly deliverables every **Friday at 5:00 PM**
+- The supervisor will review weekly deliverables every **Friday at 5:00 PM**.
 - The RA is responsible for submitting all weekly deliverables to this repo by **Friday at 5:00 PM**.
-- The RA supervisor will email a copy of the weekly `report.md` to the **Graduate Program Director** by Monday at 5:00 PM.
+- The RA supervisor will email a copy of the weekly `report.md` to the graduate program director by **Monday at 5:00 PM**.
 
 ## Project plan
 
@@ -39,7 +39,7 @@
 	- What are points of unexpected commonality? See for example [Jarvis et al. (2003)](jstor.org/stable/10.1086/376806) on latent variable models.
 	- What specific areas of IS are they related to? For instance, could the method be applied to IS research on fake news? Being really specific about the kinds of questions people are already asking within sub-fields of IS will help a lot here.
 - **Phase 3**: Writing and synthesis (weeks 10 to 16)
-	- Write up the work from the previous two phases 
+	- Write up the work from the previous two phases.
 
 ## Resources
 
@@ -59,7 +59,7 @@
 - The Limits of Empiricism: A Critique of Data-Driven Theory Development, [Van Slyke (2024)](https://dl.acm.org/doi/10.1145/3663682.3663689)
 
 
-## Phase 1: Review of computationally-driven theory development (weeks 1 to 5)
+## Phase 1: Review of computationally-driven theory development (wks. 1 to 5)
 
 - Week 1
 	- Review Berente et al. (2018), Miranda et al. (2022) and Kar et al. (2023).
@@ -80,7 +80,7 @@
 - Week 5
 	- Continue to review and categorize papers
 
-## Phase 2: Review of related literature in Computer Science and how do they connect to specific conversations in IS (weeks 6 to 10)
+## Phase 2: Review of related literature in Computer Science and how do they connect to specific conversations in IS (wks. 6 to 10)
 
 Notes:
 	- NLP+CSS workshops
@@ -96,7 +96,7 @@ Notes:
 
 - Week 10
 
-## Phase 3: Writing and synthesis (weeks 11 to 16)
+## Phase 3: Writing and synthesis (wks. 11 to 16)
 
 - Week 11
 - Week 12
