@@ -1,4 +1,4 @@
-#### More than just topic models: A two-sided review of new directions for computationally-driven theory development
+### More than just topic models: A two-sided review of new directions for computationally-driven theory development
 
 ## Overview
 
