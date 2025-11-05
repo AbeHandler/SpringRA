@@ -82,13 +82,12 @@
 
 ## Phase 2: Review of related literature in Computer Science (wks. 6 to 10)
 
-Note: how do these methods connect to **specific** conversations in IS (e.g. fake news, data breaches, etc.)
-
 Notes:
-- NLP+CSS workshops
-- Text as data
+- how do these methods connect to **specific** conversations in IS (e.g. fake news, data breaches, etc.)
+- Ideas of where to look: NLP+CSS workshops, text as data, what else besides text?
 - What are the epistemological foundations of theory and are they commensurate with the kinds of work that happens in CS? For example, theory is often deductive but related areas of CS are often inductive (finding patterns in data).
 
+Weeks:
 - Week 6
 - Week 7
 - Week 8
