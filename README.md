@@ -80,7 +80,9 @@
 - Week 5
 	- Continue to review and categorize papers
 
-## Phase 2: Review of related literature in Computer Science and how do they connect to specific conversations in IS (wks. 6 to 10)
+## Phase 2: Review of related literature in Computer Science (wks. 6 to 10)
+
+Note: how do these methods connect to **specific** conversations in IS (e.g. fake news, data breaches, etc.)
 
 Notes:
 - NLP+CSS workshops
