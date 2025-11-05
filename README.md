@@ -3,7 +3,10 @@
 ## Overview
 
 - This document describes a project plan for Spring 2026 for a graduate research assistant from the Leeds School of Business.
-- The plan is to write a "two-sided" review of computationally-driven theory development. One side of the review will cover what people have done in this area in IS. The other side of the review will cover methods from computer science that could be applied in computationally-driven theory development but which have not yet been applied within IS. AH thinks there are many such methods (e.g. work on [framing](https://aclanthology.org/P15-2072/)) and the goal is to find these methods systematically and connect them to specific ongoing conversations in IS in very specific ways (e.g. on ``fake news'').
+- The plan is to write a "two-sided" review of computationally-driven theory development. 
+	- One side of the review will cover what people have done in this area in IS. 
+	- The other side of the review will cover methods from computer science that could be applied in computationally-driven theory development but which have not yet been applied within IS. 
+	- AH thinks there are many such methods (e.g. work on [framing](https://aclanthology.org/P15-2072/)) and the goal is to find these methods systematically and connect them to specific ongoing conversations in IS in very specific ways (e.g. on ``fake news'').
 - The working title of the review is: ``More than just topic models: A two-sided review of new directions for computationally-driven theory development''
 - AH is most familiar with work from the CS field of natural language processing, which goes under the headings ["text as data"](https://textasdata.github.io/events/) and [NLP+CSS](https://sites.google.com/site/nlpandcss/nlp-css-at-naacl-2024?authuser=0). But there are likely other CS methods that can also be applied.
 
