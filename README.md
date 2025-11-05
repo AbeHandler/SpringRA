@@ -1,5 +1,7 @@
 # More than just topic models: A two-sided review of new directions for computationally-driven theory development.
 
+## Overview
+
 - This document describes a project plan for Spring 2026 for a graduate research assistant from the Leeds School of Business.
 - The plan is to write a "two-sided" review of computationally-driven theory development. One side of the review will cover what people have done in this area in IS. The other side of the review will cover methods from computer science that could be applied in computationally-driven theory development but which have not yet been applied within IS. AH thinks there are many such methods (e.g. work on [framing](https://aclanthology.org/P15-2072/)) and the goal is to find them systematically and connect them to specific ongoing conversations in IS (e.g. on ``fake news'').
 - The working title of the review is: ``More than just topic models: A two-sided review of new directions for computationally-driven theory development''
@@ -50,54 +52,60 @@
 - Pursuing Impactful Entrepreneurship Research Using Artificial Intelligence, [Lévesque et al. (2022)](https://journals.sagepub.com/doi/pdf/10.1177/1042258720927369)
 - Are there more like the above? AH is not sure yet.
 
-# Phase 1: Review of computationally-driven theory development (weeks 1 to 5)
+### Other work in IS
+- Big Data & Inductive Theory Development: Towards Computational Grounded Theory?, [Berente et al. (2014)](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1209&context=amcis2014)
+- Developing Theory Through Integrating Human and Machine Pattern Recognition, [Lindberg (2020)](https://aisel.aisnet.org/jais/vol21/iss1/7/)
+- A temporal dynamics framework and methodology for computationally intensive social media research, [Kishore et al. (2024)](https://journals.sagepub.com/doi/full/10.1177/02683962241283051)
+- The Limits of Empiricism: A Critique of Data-Driven Theory Development, [Van Slyke (2024)](https://dl.acm.org/doi/10.1145/3663682.3663689)
 
-## Week 1
-- Review Berente et al. (2018), Miranda et al. (2022) and Kar et al. (2023).
-- Collect inbound citations
-- See `week1/report.md` for details
 
-## Week 2
-- During the week, supervisor and RA will review titles of all inbound citations and flag the papers that warrant further review. This may require defining a schema.
-- Collect PDFs of 100 of the papers that warrant review and save under PDFs. The organization schema is: first authors's last name (Year)
+## Phase 1: Review of computationally-driven theory development (weeks 1 to 5)
 
-## Week 3
-- Collect any remaining PDFs of papers that warrant review and save under PDFs.
-- Start to review and categorize papers. Build a yaml file for each paper w/ its metadata (e.g., on page 3 they say they use this method)
+- Week 1
+	- Review Berente et al. (2018), Miranda et al. (2022) and Kar et al. (2023).
+	- Collect inbound citations
+	- See `week1/report.md` for details
 
-## Week 4
-- Continue to review and categorize papers
+- Week 2
+	- During the week, supervisor and RA will review titles of all inbound citations and flag the papers that warrant further review. This may require defining a schema.
+	- Collect PDFs of 100 of the papers that warrant review and save under PDFs. The organization schema is: first authors's last name (Year)
 
-## Week 5
-- Continue to review and categorize papers
+- Week 3
+	- Collect any remaining PDFs of papers that warrant review and save under PDFs.
+	- Start to review and categorize papers. We will store paper metadata in `data/papers.yml`. Be sure to include page numbers so we can track down details about each paper quickly. It's OK to come up with new fields in the `yml` file as you start to learn more about the papers.
 
-# Phase 2: Review of related literature in Computer Science and how do they connect to specific conversations in IS (weeks 6 to 10)
+- Week 4
+	- Continue to review and categorize papers
+
+- Week 5
+	- Continue to review and categorize papers
+
+## Phase 2: Review of related literature in Computer Science and how do they connect to specific conversations in IS (weeks 6 to 10)
 
 Notes:
 	- NLP+CSS workshops
 	- Text as data
 	- What are the epistemological foundations of theory and are they commensurate with the kinds of work that happens in CS? For example, theory is often deductive but related areas of CS are often inductive (finding patterns in data).
 
-## Week 6
-## Week 7
-## Week 8
+- Week 6
+- Week 7
+- Week 8
 
-## Week 9
+- Week 9
+	- Spring break 😎. Nothing to do.
 
-- Spring break 😎. Nothing to do.
+- Week 10
 
-## Week 10
+## Phase 3: Writing and synthesis (weeks 11 to 16)
 
-# Phase 3: Writing and synthesis (weeks 11 to 16)
+- Week 11
+- Week 12
+- Week 13
+- Week 14
+- Week 15
+- Week 16
 
-## Week 11
-## Week 12
-## Week 13
-## Week 14
-## Week 15
-## Week 16
-
-# Big Unknown Questions?
+## Big Unknown Questions?
 - Are there parallel conversations in other areas of business research?
 - Is there something special about text data specifically?
 
@@ -106,10 +114,4 @@ Notes:
 - Whenever possible, please add all deliverables to this repo so we can keep track.
 - Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
 
-### Other IS work on computationally-driven theory development
-
-- Big Data & Inductive Theory Development: Towards Computational Grounded Theory?, [Berente et al. (2014)](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1209&context=amcis2014)
-- Developing Theory Through Integrating Human and Machine Pattern Recognition, [Lindberg (2020)](https://aisel.aisnet.org/jais/vol21/iss1/7/)
-- A temporal dynamics framework and methodology for computationally intensive social media research, [Kishore et al. (2024)](https://journals.sagepub.com/doi/full/10.1177/02683962241283051)
-- The Limits of Empiricism: A Critique of Data-Driven Theory Development, [Van Slyke (2024)](https://dl.acm.org/doi/10.1145/3663682.3663689)
 
