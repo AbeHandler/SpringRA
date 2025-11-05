@@ -112,7 +112,7 @@ Weeks:
 
 ## Tools
 - The RA is encouraged to use AI tools. However, the RA is ultimately responsible for both the correctness and quality of their work.
-- Whenever possible, please add all deliverables to this repo so we can keep track.
+- Whenever possible, please add all deliverables to this repo.
 - Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
 
 
