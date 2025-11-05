@@ -3,21 +3,22 @@
 ## Overview
 
 - This document describes a project plan for Spring 2026 for a graduate research assistant from the Leeds School of Business.
-- The plan is to write a "two-sided" review of computationally-driven theory development. One side of the review will cover what people have done in this area in IS. The other side of the review will cover methods from computer science that could be applied in computationally-driven theory development but which have not yet been applied within IS. AH thinks there are many such methods (e.g. work on [framing](https://aclanthology.org/P15-2072/)) and the goal is to find them systematically and connect them to specific ongoing conversations in IS (e.g. on ``fake news'').
+- The plan is to write a "two-sided" review of computationally-driven theory development. One side of the review will cover what people have done in this area in IS. The other side of the review will cover methods from computer science that could be applied in computationally-driven theory development but which have not yet been applied within IS. AH thinks there are many such methods (e.g. work on [framing](https://aclanthology.org/P15-2072/)) and the goal is to find these methods systematically and connect them to specific ongoing conversations in IS in very specific ways (e.g. on ``fake news'').
 - The working title of the review is: ``More than just topic models: A two-sided review of new directions for computationally-driven theory development''
-- AH is most familiar with work from the CS field of natural language processing, which goes under the headings ["text as data"](https://textasdata.github.io/events/) and [NLP+CSS](https://sites.google.com/site/nlpandcss/nlp-css-at-naacl-2024?authuser=0). But there are likely other areas as well.
+- AH is most familiar with work from the CS field of natural language processing, which goes under the headings ["text as data"](https://textasdata.github.io/events/) and [NLP+CSS](https://sites.google.com/site/nlpandcss/nlp-css-at-naacl-2024?authuser=0). But there are likely other CS methods that can also be applied.
 
 ## Goals
 
-- The immediate objective is to submit a review paper to ICIS in May of 2026.
-- The broader and more longer-term secondary objective is to build familiary with computationally-driven theory development (both for the supervisor and for the RA). - Finally, the third goal is to write a journal paper. At the end of the spring, the supervisor and RA will decide if it makes sense to turn the conference submission into a journal submission.
+- The immediate goal is to submit a review paper to ICIS in May of 2026.
+- The broader and more longer-term secondary goal is to build familiary with computationally-driven theory development (both for the supervisor and for the RA). 
+- The stretch goal is to write a journal paper. At the end of the spring, the supervisor and RA will decide if it makes sense to turn the conference submission into a journal submission.
 
 ## Expectations
 
-- The research assistant (RA) is expected to work 20 hours per week on the project, following the weekly project plan.
+- The research assistant (RA) is expected to work 20 hours per week on the project, following the weekly project plan outlined in this repo.
 - The supervisor is expected to meet weekly with the RA for 30 minutes to provide feedback and assess progress on the project plan.
-- There are 16 folders in the repo corresponding to the 16 weeks of planned work (20 hr/wk).
-- Each of the 16 folders contains a markdown report (`report.md`) listing the deliverables for that week. 
+- There are 16 folders in the repo under the `weekly` folder corresponding to the 16 weeks of planned work (20 hr/wk).
+- Each of the 16 folders contains a markdown report (`report.md`) listing the deliverables for that week. See for example the report for [week 1](https://github.com/AbeHandler/SpringRA/blob/main/weekly/week1/report.md)
 - The supervisor and RA will use the folders to monitor progress. The supervisor and RA will fill out the markdown files in each weekly folder as we go. 
 - The supervisor is responsible for emailing a copy of the weekly markdown report to the graduate program director (GPD) to provide a progress update.
 - The supervisor expects that the research assistant meets each weekly deliverable on the project. 
