@@ -67,7 +67,7 @@
 	- See `week1/report.md` for details
 
 - Week 2
-	- During the week, supervisor and RA will review titles of all inbound citations and flag the papers that warrant further review. This may require defining a schema.
+	- During the week, supervisor and RA will review titles of all inbound citations and flag the papers that warrant further review. This may require defining inclusion criteria.
 	- Collect PDFs of 100 of the papers that warrant review and save under PDFs. The organization schema is: first authors's last name (Year)
 
 - Week 3
@@ -83,9 +83,9 @@
 ## Phase 2: Review of related literature in Computer Science and how do they connect to specific conversations in IS (wks. 6 to 10)
 
 Notes:
-	- NLP+CSS workshops
-	- Text as data
-	- What are the epistemological foundations of theory and are they commensurate with the kinds of work that happens in CS? For example, theory is often deductive but related areas of CS are often inductive (finding patterns in data).
+- NLP+CSS workshops
+- Text as data
+- What are the epistemological foundations of theory and are they commensurate with the kinds of work that happens in CS? For example, theory is often deductive but related areas of CS are often inductive (finding patterns in data).
 
 - Week 6
 - Week 7
