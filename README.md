@@ -1,4 +1,5 @@
-# More than just topic models: A two-sided review of new directions for computationally-driven theory development.
+# More than just topic models
+#### A two-sided review of new directions for computationally-driven theory development
 
 ## Overview
 
@@ -31,14 +32,14 @@
 
 ## Project plan
 
-- Phase 1: Review of computationally-driven theory development (weeks 1 to 5)
+- **Phase 1**: Review of computationally-driven theory development (weeks 1 to 5)
 	- How are people actually doing computationally-driven theory development right now? What does this mean in practice? Are people doing lots of topic models? What kinds of methods are they using and questions are they pursuing?
-- Phase 2: Review of related literature in Computer Science (weeks 6 to 10)
+- **Phase 2**: Review of related literature in Computer Science (weeks 6 to 10)
 	- Review work in ["text as data"](https://textasdata.github.io/events/) and [NLP+CSS](https://sites.google.com/site/nlpandcss/nlp-css-at-naacl-2024?authuser=0). Other areas?
 	- Do they make assumptions that are incommensurate with the theory-building tradition in IS and the broader management literature? 
 	- What are points of unexpected commonality? See for example [Jarvis et al. (2003)](jstor.org/stable/10.1086/376806) on latent variable models.
 	- What specific areas of IS are they related to? For instance, could the method be applied to IS research on fake news? Being really specific about the kinds of questions people are already asking within sub-fields of IS will help a lot here.
-- Phase 3: Writing and synthesis (weeks 10 to 16)
+- **Phase 3**: Writing and synthesis (weeks 10 to 16)
 	- Write up the work from the previous two phases 
 
 ## Resources
