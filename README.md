@@ -107,8 +107,8 @@ Weeks:
 - Week 16
 
 ## Big Unknown Questions?
-- Are there parallel conversations in other areas of business research?
-- Is there something special about text data specifically?
+- Are there parallel conversations in other areas of business research? Maybe people are talking about data-driven theory development in marketing but not citing Berente or using different wording?
+- Is there something special about text data specifically? What about other areas?
 
 ## Tools
 - The RA is encouraged to use AI tools. However, the RA is ultimately responsible for both the correctness and quality of their work.
