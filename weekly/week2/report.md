@@ -2,7 +2,7 @@
 
 _Describe the weekly deliverables_
 -  
--  
+- Look at the papers cited in Berente et al. (2018) and Miranda et al. (2022). What do they cite? Categorize the citations into groups like methodological foundations, or (2) examples of computational theory development. We are most interested in the methods in (2). Track your work in a yml document.
 
 ---
 
