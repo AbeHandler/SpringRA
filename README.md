@@ -112,6 +112,7 @@ Weeks:
 ## Big Unknown Questions?
 - Are there parallel conversations in other areas of business research? Maybe people are talking about data-driven theory development in marketing but not citing Berente or using different wording?
 - Is there something special about text data specifically? What about other areas?
+- Ethan Poskanzer notes that all researchers sort of form theories from data. What is unique about the term "computationally intensive theory development"
 
 ## Tools
 - The RA is encouraged to use AI tools. However, the RA is ultimately responsible for both the correctness and quality of their work.
