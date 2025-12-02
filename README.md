@@ -11,9 +11,9 @@
 - There are two main questions. Each question corresponds to an area to review. Each also corresponds to a sub-unit for the RA.
 
 - **Q1.** What are the big open questions about the attention economy in reference disciplines like economics, as well as peer disciplines like strategy, management, and marketing? How has the attention economy been conceptualized and theorized? How has it been studied in practice? What are the grand challenges in this area? Look at FT50 and Econ journals to answer. What has been published about the attention economy there?
-- **Q2.** How do these bigger questions about the attention economy relate to specific affordances of platform information systems such as like buttons, comments, recommendation algorithms, friending, etc. 
-	- For example, maybe economics conceptualizes the attention economy as matching consumer interests with niche content. That conceptualization may be a better fit for platforms with a search bar (go find stuff you are interested in) and a worse fit for platforms with recommendation systems (go look at this thing). 
-	- To understand the specific affordances of online platforms, look at work from CS, psychology, marketing, and IS. For example, there will be work in psych on how hard it is to look away from your phone. Finding a survey that lists platform affordances and then searching for papers about each affordance may help.
+- **Q2.** What has been published about the specific affordances of platform information systems such as like buttons, comments, recommendation algorithms, friending, etc. How do these bigger questions about the attention economy from Q1 relate to specific aspects of the technology from Q2?
+	- For example, maybe economics conceptualizes the attention economy as matching consumer interests with niche content. That conceptualization may be a better fit for platforms with a search bar (go find stuff you are interested in) and a worse fit for platforms with recommendation systems (draw your attention to something). 
+	- For the review, look at work from CS, psychology, marketing, and IS. For example, there will be work in psych on how hard it is to look away from your phone. Finding a survey that lists platform affordances and then searching for papers about each affordance may help.
 
 ## Goals
 
