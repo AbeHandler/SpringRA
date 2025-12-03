@@ -53,4 +53,7 @@
 - Whenever possible, please add all deliverables to this repo.
 - Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
 
+## Tensions
+- Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting?
 
+- Chris Sims [rational inattention](https://pages.stern.nyu.edu/~dbackus/Exotic/1Robustness/Sims%20inattention%20JME%2003.pdf)
