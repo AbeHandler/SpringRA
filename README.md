@@ -54,7 +54,7 @@
 - Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
 
 ## Tensions
-- Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting?
+- Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting? Maybe people need to watch YT becuase they are stuck in places or situations where they need entertainment.
 
 - Chris Sims [rational inattention](https://pages.stern.nyu.edu/~dbackus/Exotic/1Robustness/Sims%20inattention%20JME%2003.pdf)
 - This one may be [a better review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20211524)
