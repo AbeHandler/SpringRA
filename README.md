@@ -23,11 +23,13 @@
 
 ## Project plan
 
-- **Phase 1**: Review of work on the attention economy in economics and reference disciplines (6 weeks)
+- **Phase 1**: Review of work on the attention economy in IS, economics and reference disciplines (6 weeks)
 	- 1. What has been written about this in Econ?
 	- 2. What has been written about this in FT50 journals?
+	- 3. What has been written about this in IS, starting with the Basket of Eight? For example, Brynjolfsson, Kim, and Oh have a paper in ISR (2024): The Attention Economy: Measuring the Value of Free Goods on the Internet.
 - **Phase 2**: Review of specific affordances of platform information systems (6 weeks)
 	- 1. What has been written about this in CS, psych, and marketing? We will need to narrow down the affordances systematically somehow.
+	- 2. It may be good to focus on the specific role of **algorithms** (recommendation algorithm or other kinds of algorithms, algorithm change, algorithmic governance/design, etc.). Tony thinks the role of algorithms in the governance/design/orchestration of digital platforms/communities is understudied.
 - **Phase 3**: Writing and discussion (4 weeks)
 	- Write up the work from the previous two phases.
 	- Something to consider for discussion: how do these big questions from reference disciplines, and known findings about specific affordances relate to ongoing conversations within IS. For example, within IS, there is a literature on recommendation systems. How do big questions about the attention economy and specific affordances of online systems introduce new questions for this research area?
@@ -55,6 +57,12 @@
 
 ## Tensions
 - Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting? Maybe people need to watch YT becuase they are stuck in places or situations where they need entertainment.
+
+## Pointers
+
+- In psychology, Herbert Simon first discussed the scarcity of attention.  Famous quote: "A wealth of information creates a poverty of attention."
+- In economics, [Sendhil Mullainathan (MIT)](https://sendhil.org/) has written quite a bit on the economics of attention. 
+- In strategy, [William Ocasio (Illinois)](https://giesbusiness.illinois.edu/profile/william-ocasio) wrote a lot about what is now known as “the attention-based view” in the field.  His most famous paper is: “Towards an attention‐based view of the firm” in SMJ. “Attention to attention” in Organization Science is also a highly cited paper.  See also “Communication and attention dynamics: An attention‐based view of strategic change” and found it interesting too.  Ocasio is primarily a theorist, writing a lot of conceptual/theoretical papers.
 
 - Chris Sims [rational inattention](https://pages.stern.nyu.edu/~dbackus/Exotic/1Robustness/Sims%20inattention%20JME%2003.pdf)
 - This one may be [a better review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20211524)
