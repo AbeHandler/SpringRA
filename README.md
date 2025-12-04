@@ -19,7 +19,7 @@
 
 - **Primary goal**: Submit an ICIS review paper in May 2026
 - **Secondary goal**: Learn about the attention economy for future study of the YouTube recommendation algorithm
-- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm
+- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but I think it is very hard to get into.
 
 ## Project plan
 
@@ -57,6 +57,9 @@
 
 ## Tensions
 - Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting? Maybe people need to watch YT becuase they are stuck in places or situations where they need entertainment.
+
+## Attention
+- Sometimes divided into automatic vs directed. The Ocasio papers talk about this. So does the Chris Hayes book. Do you direct your attention (e.g. reading a sign) or is it directed for you (e.g., when someone is talking on their phone during a movie). This may be important in our setting.
 
 ## Pointers
 
