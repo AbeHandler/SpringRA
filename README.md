@@ -1,5 +1,7 @@
 ### A Review of the Attention Economy for Information Systems Research
 
+_Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will?_
+
 ## Overview
 
 - This document describes a project plan for Spring 2026 for a graduate research assistant from the Leeds School of Business.
