@@ -48,16 +48,6 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - The supervisor expects that the research assistant meets each weekly deliverable on the project. 
 - It should be possible to complete the deliverable in 2 full days of work, more or less. If it seems like the deliverables are too demanding or not demanding enough, the RA and the supervisor can adjust as needed. 
 
-## Important deadlines and weekly time table
-- The supervisor will review weekly deliverables every **Friday at 5:00 PM**.
-- The RA is responsible for submitting all weekly deliverables to this repo by **Friday at 5:00 PM**.
-- The RA supervisor will email a copy of the weekly `report.md` to the graduate program director by **Monday at 5:00 PM**.
-
-## Tools
-- The RA is encouraged to use AI tools. However, the RA is ultimately responsible for both the correctness and quality of their work.
-- Whenever possible, please add all deliverables to this repo.
-- Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
-
 ## Tensions
 - Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting? Maybe people need to watch YT becuase they are stuck in places or situations where they need entertainment.
 
@@ -72,3 +62,15 @@ _Are people rationally allocating their attention to deal with boredom/find info
 
 - Chris Sims [rational inattention](https://pages.stern.nyu.edu/~dbackus/Exotic/1Robustness/Sims%20inattention%20JME%2003.pdf)
 - This one may be [a better review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20211524)
+
+
+
+## Important deadlines and weekly time table
+- The supervisor will review weekly deliverables every **Friday at 5:00 PM**.
+- The RA is responsible for submitting all weekly deliverables to this repo by **Friday at 5:00 PM**.
+- The RA supervisor will email a copy of the weekly `report.md` to the graduate program director by **Monday at 5:00 PM**.
+
+## Tools
+- The RA is encouraged to use AI tools. However, the RA is ultimately responsible for both the correctness and quality of their work.
+- Whenever possible, please add all deliverables to this repo.
+- Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
