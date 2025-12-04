@@ -22,7 +22,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 
 - **Primary goal**: Submit an ICIS review paper in May 2026
 - **Secondary goal**: Learn about the attention economy for future study of the YouTube recommendation algorithm
-- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but I think it is very hard to get into.
+- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but AH thinks it is very hard to get into.
 
 ## Project plan
 
