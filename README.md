@@ -22,7 +22,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 
 - **Primary goal**: Submit an ICIS review paper in May 2026
 - **Secondary goal**: Learn about the attention economy for future study of the YouTube recommendation algorithm
-- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but AH thinks it is very hard to get into.
+- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but AH thinks it is very hard to get into.  Journal of Management, and Academy of Management Annals also publish reviews.
 
 ## Project plan
 
@@ -61,9 +61,10 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - In strategy, [William Ocasio (Illinois)](https://giesbusiness.illinois.edu/profile/william-ocasio) wrote a lot about what is now known as “the attention-based view” in the field.  His most famous paper is: “Towards an attention‐based view of the firm” in SMJ. “Attention to attention” in Organization Science is also a highly cited paper.  See also “Communication and attention dynamics: An attention‐based view of strategic change” and found it interesting too.  Ocasio is primarily a theorist, writing a lot of conceptual/theoretical papers.
 
 - Chris Sims [rational inattention](https://pages.stern.nyu.edu/~dbackus/Exotic/1Robustness/Sims%20inattention%20JME%2003.pdf)
-- This one may be [a better review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20211524)
+	- This one may be [a better review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20211524)
+	- Tony: Sims seems to gain traction in macro, consumer behavior, etc.  So far not that much in strategy or management.  I am not sure about MIS.  But yes, Shuai should read that literature too.
 
-
+- [Paul Leonardi](https://paulleonardi.com/) has published on features/affordances of online platforms
 
 ## Important deadlines and weekly time table
 - The supervisor will review weekly deliverables every **Friday at 5:00 PM**.
