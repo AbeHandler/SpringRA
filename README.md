@@ -1,8 +1,13 @@
-### A Review of the Attention Economy for Information Systems Research
+# A Review of the Attention Economy for Information Systems Research
 
 _Are people rationally allocating their attention to deal with boredom/find information that is relevant to their lives? Or are their brains being fracked by the technology firms against their will?_
 
-## Overview
+## Table of Contents
+- [Overview](#overview)
+- [Logistics](#logistics)
+- [Notes](#notes)
+
+# Overview
 
 - This document describes a project plan for Spring 2026 for a graduate research assistant from the Leeds School of Business.
 - **The goal is to write an ICIS review paper** on the attention economy and how the attention economy presents new questions and new directions for platform researchers in IS.
@@ -21,8 +26,8 @@ _Are people rationally allocating their attention to deal with boredom/find info
 ## Goals
 
 - **Primary goal**: Submit an ICIS review paper in May 2026
-- **Secondary goal**: Learn about the attention economy for future study of the YouTube recommendation algorithm
-- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but AH thinks it is very hard to get into.  Journal of Management, and Academy of Management Annals also publish reviews.
+- **Secondary goal**: Learn about the attention economy for future empirical studies of the YouTube recommendation algorithm
+- **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but AH thinks it is very hard to get into.  Journal of Management, and Academy of Management Annals also publish reviews. These are possible venues to target, depending on how things go.
 
 ## Project plan
 
@@ -37,6 +42,16 @@ _Are people rationally allocating their attention to deal with boredom/find info
 	- Write up the work from the previous two phases.
 	- Something to consider for discussion: how do these big questions from reference disciplines, and known findings about specific affordances relate to ongoing conversations within IS. For example, within IS, there is a literature on recommendation systems. How do big questions about the attention economy and specific affordances of online systems introduce new questions for this research area?
 
+# Logistics
+
+## Two-week sprints
+- The project will proceed in two-week sprints. During each two week sprint the RA and the supervisor will set a focal topic. The RA will be responsible for three things: 
+	- (1) Understanding the lay of the land, which requires reading the titles and abstracts of a large number of papers (40/50). The RA is not expected to read these in depth.
+	- (2) Picking a small number (1 to 3) papers to read in-depth
+	- (3) Preparing a 1-page research memo describing their findings. RA and supervisor will share the 1-page memo with Tony and Jason. The RA will meet with Abe and Tony to discuss findings from the two-week sprint every two weeks.
+- For example, one two-week sprint might focus on what has been written about the attention economy within Information Systems.
+
+
 ## Expectations
 
 - The research assistant (RA) is expected to work 20 hours per week on the project, following the weekly project plan outlined in this repo.
@@ -45,8 +60,20 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - Each of the 16 folders contains a markdown report (`report.md`) listing the deliverables for that week.
 - The supervisor and RA will use the `weekly` folders to monitor progress. The supervisor and RA will fill out the markdown files in each weekly folder as we go. 
 - The supervisor is responsible for emailing a copy of the weekly markdown report to the graduate program director (GPD) to provide a progress update.
-- The supervisor expects that the research assistant meets each weekly deliverable on the project. 
-- It should be possible to complete the deliverable in 2 full days of work, more or less. If it seems like the deliverables are too demanding or not demanding enough, the RA and the supervisor can adjust as needed. 
+- The supervisor expects that the research assistant meets each weekly deliverable on the project 
+- It should be possible to complete the deliverable in 2 full days of work, more or less. If it seems like the deliverables are too demanding or not demanding enough, the RA and the supervisor can adjust as needed.
+
+## Important deadlines and weekly time table
+- The supervisor will review weekly deliverables every **Friday at 5:00 PM**.
+- The RA is responsible for submitting all weekly deliverables to this repo by **Friday at 5:00 PM**.
+- The RA supervisor will email a copy of the weekly `report.md` to the graduate program director by **Monday at 5:00 PM**.
+
+## Tools
+- The RA is encouraged to use AI tools. However, the RA is ultimately responsible for both the correctness and quality of their work.
+- Whenever possible, please add all deliverables to this repo.
+- Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
+
+# Notes
 
 ## Tensions
 - Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting? Maybe people need to watch YT becuase they are stuck in places or situations where they need entertainment.
@@ -66,12 +93,3 @@ _Are people rationally allocating their attention to deal with boredom/find info
 
 - [Paul Leonardi](https://paulleonardi.com/) has published on features/affordances of online platforms
 
-## Important deadlines and weekly time table
-- The supervisor will review weekly deliverables every **Friday at 5:00 PM**.
-- The RA is responsible for submitting all weekly deliverables to this repo by **Friday at 5:00 PM**.
-- The RA supervisor will email a copy of the weekly `report.md` to the graduate program director by **Monday at 5:00 PM**.
-
-## Tools
-- The RA is encouraged to use AI tools. However, the RA is ultimately responsible for both the correctness and quality of their work.
-- Whenever possible, please add all deliverables to this repo.
-- Please use [dvc](https://dvc.org/) for any big files that you can't fit in this repo.
