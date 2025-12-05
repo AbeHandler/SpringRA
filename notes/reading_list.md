@@ -1,0 +1,7 @@
+- Goolsbee A, Klenow PJ (2006) Valuing consumer products by the time spent using them: An application to the internet. American Economic Review 96(2):108–113.
+- Brynjolfsson E, Collis A, Eggers F (2019) Using massive online choice experiments to measure changes in well-being. Proceedings of the National Academy of Sciences USA 116(15):7250–7255.
+- Nakamura L, Samuels J, Soloveichik R (2016) Capturing the productivity impact of the "free" apps and other ad-supported media. Working paper, Federal Reserve Bank of Philadelphia, Philadelphia.
+- Varian H (2006) The economics of internet search. Rivista di politica economica 96(11/12):177–191.
+- Corrado C, Hulten C, Sichel D (2009) Intangible capital and U.S. economic growth. Review of Income and Wealth 55(3):661–685.
+- Byrne DM, Fernald JG, Reinsdorf MB (2016) Does the United States have a productivity slowdown or a measurement problem? Brookings Papers on Economic Activity, 109–157.
+- Nevo A, Turner JL, Williams JW (2016) Usage-based pricing and demand for residential broadband. Econometrica 84(2):411–443.
