@@ -48,7 +48,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - The project will proceed in two-week sprints. During each two week sprint the RA and the supervisor will set a focal topic. The RA will be responsible for three things: 
 	- (1) Understanding the lay of the land, which requires reading the titles and abstracts of a large number of papers (40/50). The RA is not expected to read these in depth.
 	- (2) Picking a small number (1 to 3) papers to read in-depth
-	- (3) Preparing a 1-page research memo describing their findings. RA and supervisor will share the 1-page memo with Tony and Jason. The RA will meet with Abe and Tony to discuss findings from the two-week sprint every two weeks.
+	- (3) Preparing a 1-page research memo describing their findings. RA and supervisor will share the 1-page memo with Tony and Jason. The RA will meet with Abe and Tony to discuss findings from the sprint every two weeks.
 - For example, one two-week sprint might focus on what has been written about the attention economy within Information Systems.
 
 
