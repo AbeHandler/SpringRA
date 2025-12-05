@@ -87,13 +87,5 @@ Empirical tension
 
 ## Pointers
 
-- In psychology, Herbert Simon first discussed the scarcity of attention.  Famous quote: "A wealth of information creates a poverty of attention."
-- In economics, [Sendhil Mullainathan (MIT)](https://sendhil.org/) has written quite a bit on the economics of attention. 
-- In strategy, [William Ocasio (Illinois)](https://giesbusiness.illinois.edu/profile/william-ocasio) wrote a lot about what is now known as “the attention-based view” in the field.  His most famous paper is: “Towards an attention‐based view of the firm” in SMJ. “Attention to attention” in Organization Science is also a highly cited paper.  See also “Communication and attention dynamics: An attention‐based view of strategic change” and found it interesting too.  Ocasio is primarily a theorist, writing a lot of conceptual/theoretical papers.
-
-- Chris Sims [rational inattention](https://pages.stern.nyu.edu/~dbackus/Exotic/1Robustness/Sims%20inattention%20JME%2003.pdf)
-	- This one may be [a better review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20211524)
-	- Tony: Sims seems to gain traction in macro, consumer behavior, etc.  So far not that much in strategy or management.  I am not sure about MIS.  But yes, Shuai should read that literature too.
-
-- [Paul Leonardi](https://paulleonardi.com/) has published on features/affordances of online platforms
+See `notes/reading_list.md`
 
