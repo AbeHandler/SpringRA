@@ -77,6 +77,8 @@ _Are people rationally allocating their attention to deal with boredom/find info
 
 - How is it defined?
 
+- Start of paper. There are two incommensurate views of the attention economy in the management literature and the popular press. One view proposes that technology firms provide a consumer surpluss by provinding free goods. The other view is that this so-called surpluss is actually manipulation. We review these perspectives to analyze these extremely divergent world views.
+
 ## Tensions
 - Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting? Maybe people need to watch YT becuase they are stuck in places or situations where they need entertainment.
 

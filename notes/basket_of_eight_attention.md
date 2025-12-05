@@ -1,0 +1,29 @@
+- 1. Managing attention: more mindful team decision-making
+- 2. DNCP: An attention-based deep learning approach enhanced with attractiveness and timeliness of News for online news click prediction
+- 3. The cinematic mode of organizing: Media and the problem of attention in organization theory
+- 4. Attending to Customer Attention: A Novel Deep Learning Method for Leveraging Multimodal Online Reviews to Enhance Sales Prediction
+- 5. Does Animation Attract Online Users' Attention? The Effects of Flash on Information Search Performance and Perceptions
+- 6. The Attention Economy: Measuring the Value of Free Goods on the Internet
+- 7. Fake News, Investor Attention, and Market Reaction
+- 8. Research Note - Deliberation Without Attention: The Latent Benefits of Distracting Website Features for Online Purchase Decisions
+- 9. Focus Within or On Others: The Impact of Reviewers' Attentional Focus on Review Helpfulness
+- 10. Cosearch Attention and Stock Return Predictability in Supply-Chains
+- 11. Predicting Instructor Performance in Online Education: An Interpretable Hierarchical Transformer with Contextual Attention
+- 12. Content Growth and Attention Contagion in Information Networks: Addressing Information Poverty on Wikipedia
+- 13. Attention Shaping and Software Risk - A Categorical Analysis of Four Classical Risk Management Approaches
+- 14. The Impact of User Interface Design on Idea Integration in Electronic Brainstorming: An Attention-Based View
+- 15. Diagrammatic Attention Management and the Effect of Conceptual Model Structure on Cardinality Validation
+- 16. Effects of Animation on Attentional Resources of Online Consumers
+- 17. The Effects of Animation on Information Seeking Performance on the World Wide Web: Securing Attention or Interfering with Primary Tasks?
+- 18. Attention Issues in Spatial Information Systems: Directing Mobile Users' Visual Attention Using Augmented Reality
+- 19. How Appreciation and Attention Affect Contributions to Electronic Networks of Practice
+- 20. Fall Detection with Wearable Sensors: A Hierarchical Attention-based Convolutional Neural Network Approach
+- 21. Attention Adjustment, Renewal, and Equilibrium Seeking in Online Search: An Eye-Tracking Approach
+- 22. Wearable Sensor-Based Chronic Condition Severity Assessment: An Adversarial Attention-Based Deep Multisource Multitask Learning Approach
+- 23. Disinformation Spillover: Uncovering the Ripple Effect of Bot-Assisted Fake Social Engagement on Public Attention
+- 24. Linking Exploits from the Dark Web to Known Vulnerabilities for Proactive Cyber Threat Intelligence: An Attention-Based Deep Structured Semantic Model
+- 25. Augmented Reality at Work: Attention Management and Its Impact on Work Performance
+- 26. Competing for Attention: An Empirical Study of Online Reviewers' Strategic Behavior
+- 27. Attention to Digital Innovation: Exploring the Impact of a Chief Information Officer in the Top Management Team
+- 28. External Bridging and Internal Bonding: Unlocking the Generative Resources of Member Time and Attention Spent in Online Communities
+- 29. The Role of Individual Memory and Attention Processes During Electronic Brainstorming
