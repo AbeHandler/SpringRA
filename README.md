@@ -78,6 +78,10 @@ _Are people rationally allocating their attention to deal with boredom/find info
 ## Tensions
 - Are people rationally allocating their attention to deal with boredom or seek entertainment. Or are their brains being fracked by the technology firms against their will? That gets at big questions around free will and rational choice. Can we connect those to our specific YT setting? Maybe people need to watch YT becuase they are stuck in places or situations where they need entertainment.
 
+Empirical tension
+- Brynjolfsson et al. 2023 say there is a consumer surpluss and cite empirical work that there is a consumer surpluss. #expand What are these papers?
+- There is work in `pdfs/econ` #expand that says that social media is bad.
+
 ## Attention
 - Sometimes divided into automatic vs directed. The Ocasio papers talk about this. So does the Chris Hayes book. Do you direct your attention (e.g. reading a sign) or is it directed for you (e.g., when someone is talking on their phone during a movie). This may be important in our setting.
 
