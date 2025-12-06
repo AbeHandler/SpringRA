@@ -1,0 +1,3 @@
+- Tim Wu claims that attention markets are necessarily a race to the bottom. People will compete to say the most attention-grabbing things, even if they are false, mean-spirited, etc. 
+- He uses the word "consent" (Chapter 2)
+- How we get the attention seems important. Its not all voluntary.

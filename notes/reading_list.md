@@ -1,3 +1,6 @@
+
+
+
 # References from Brynjolfsson et al. (2024) - The Attention Economy
 
 - **Goolsbee A, Klenow PJ (2006)** Valuing consumer products by the time spent using them: An application to the internet. *American Economic Review* 96(2):108–113.
@@ -21,6 +24,8 @@
 - **Nevo A, Turner JL, Williams JW (2016)** Usage-based pricing and demand for residential broadband. *Econometrica* 84(2):411–443.
   - *Predict that the welfare gain from time savings for households with higher internet usage level will increase as more content and applications become available.*
 
+# MS paper
+- Why do [people hate platforms](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.03683)? Management science
 
 # Pointers from Tony
 - In psychology, Herbert Simon first discussed the scarcity of attention.  Famous quote: "A wealth of information creates a poverty of attention."
