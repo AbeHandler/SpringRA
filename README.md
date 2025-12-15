@@ -75,7 +75,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 
 # Notes
 
-- How is it defined?
+- How is attent economy defined? I don't think there is a formal scholarly definition.
 
 - Start of paper. There are two incommensurate views of the attention economy in the management literature and the popular press. One view proposes that technology firms provide a consumer surpluss by provinding free goods. The other view is that this so-called surpluss is actually manipulation. We review these perspectives to analyze these extremely divergent world views.
 
