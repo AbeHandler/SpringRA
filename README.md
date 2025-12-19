@@ -28,6 +28,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - **Primary goal**: Submit an ICIS review paper in May 2026
 - **Secondary goal**: Learn about the attention economy for future empirical studies of the YouTube recommendation algorithm
 - **Stretch goal**: Convert the ICIS submission into the lit review for a journal paper on the YouTube algorithm. MISQ also has a theory and review section but AH thinks it is very hard to get into.  Journal of Management, and Academy of Management Annals also publish reviews. These are possible venues to target, depending on how things go.
+- **Consireration**: MISQ does DPWs. Deadline is in the spring. Consider submission.
 
 ## Project plan
 
@@ -40,6 +41,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 	- 2. It may be good to focus on the specific role of **algorithms** (recommendation algorithm or other kinds of algorithms, algorithm change, algorithmic governance/design, etc.). Tony thinks the role of algorithms in the governance/design/orchestration of digital platforms/communities is understudied.
 - **Phase 3**: Writing and discussion (4 weeks)
 	- Write up the work from the previous two phases.
+ 	- What are theory and review articles in MISQ? Blog post on this. Pull the recent ones. What are they doing? 
 	- Something to consider for discussion: how do these big questions from reference disciplines, and known findings about specific affordances relate to ongoing conversations within IS. For example, within IS, there is a literature on recommendation systems. How do big questions about the attention economy and specific affordances of online systems introduce new questions for this research area?
 
 # Logistics
