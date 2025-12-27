@@ -37,3 +37,7 @@
 	- Tony: Sims seems to gain traction in macro, consumer behavior, etc.  So far not that much in strategy or management.  I am not sure about MIS.  But yes, Shuai should read that literature too.
 
 - [Paul Leonardi](https://paulleonardi.com/) has published on features/affordances of online platforms
+
+
+- https://osf.io/preprints/psyarxiv/kw7qr
+- https://arxiv.org/abs/2405.14614
