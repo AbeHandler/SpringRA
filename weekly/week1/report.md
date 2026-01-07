@@ -14,6 +14,7 @@ Subtasks:
 -  Pull the PDFs for papers that are very relevant and store them in the `pdfs` folder following the organization and naming convention
 -  For papers that are very relevant, you many want to write a short report in the `notes` folder. This is a good opportunity to learn Obsidian, but you can just use plain markdown. Your notes can be informal. Just jot down the main findings from the paper, things you notice. 
 - Do ISR and JMIS publish review papers or theory and review papers?
+- Review the papers that Tony emailed on Jan 7th which Abe moved to the `pdfs` dir "AMA Ecosystem Orchestration" and "Chen, Tong, Tang, and Han"
 
 ---
 
