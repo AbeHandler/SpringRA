@@ -1,3 +1,7 @@
+## New stuff 
+
+- We can use Kai's website to find related constructs.
+
 ## ✅ Scope of Work
 
 _Describe the weekly deliverables_
