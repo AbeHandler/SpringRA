@@ -1,55 +1,21 @@
-## New stuff 
+High level
+Keep going. This is going well. It will take 2 to 3 weeks to go through the papers. Shuai should keep going
 
-- We can use Kai's website to find related constructs.
+Changes:
+- Share notes with us in the GitHub
+- Add PDFs to DropBox
+- Write down theory ideas that you have. Such as attention is the thing that brings you money. That is great. Keep track of these things.
+- Shuai's idea. Attention is a mechanism that brings you money. Investor attention. Consumer attention. Supplier attention. They all relate to economy but from different mechanism. If you attract attention, you can make money.
+- Remember: Price of attention on certain platform. Does attention have a value? How would you quantify/measure it?
 
-## ✅ Scope of Work
+Venues:
+- Maybe MS? It is general.
 
-_Describe the weekly deliverables_
+Shuai's current exclusion criteria
+ 1. Some papers use attention in a phrase like "pay attention" or "lack of attention"
+ 2. "Attention" as a mechanism or algorithm
+ 3. "Attention disorder" Issues with ADHD to help employees with this condition.
+TODO add to GitHub so we have understanding of the criteria
 
--  One possible avenue for our work is as a theory and review paper for MISQ. MISQ lists theory and review papers on its website. The last 10 Threory and Review papers are listed below. Please (1) download the papers and add them to the `pdfs/misqexamples` directory (2) review the papers and make a gamne plan for writing a MISQ theory and review. What common threads do you notice in the papers? If you were making a playbook for writing and publishing one of these papers, what would it say?
-
-- Collective Information System Use:  A Typological Theory
-- Contextual Explanation:  Alternative Approaches and Persistent Challenges
-- Technology as Routine Capability
-- Theorizing the Digital Object
-- How Information Technology Matters in Societal Change:  An Affordance-Based Institutional Perspective
-- From Representation to Mediation:  A New Agenda for Conceptual Modeling Research in a Digital World (Open Access)
-- Cognitive Diagram Understanding and Task Performance in Systems Analysis and Design (Open Access)
-- How Do Organizations Learn from Information System Incidents? A Synthesis of the Past, Present, and Future
-- Digital Strategic Initiatives and Digital Resources: Construct Definition and Future Research Directions
-- Digitization of Transaction Terms within TCE: Strong Smart Contract as a New Mode of Transaction Governance
-
-What do they do?
-- Introduce vocab, lit review, theoretical model
-
----
-
-## 🏁 Evaluation criteria
-
-_How will the RA supervisor determine that the work has been completed?_
--  
--  
-
----
-
-## 📌 Supervisor Response 
-
-_Based on the above criteria, has the work been completed?_
-- [ ] Yes  
-- [ ] No
-
-*Comments:*  
-> 
-
----
-
-## 💬 Feedback for the RA
-
-_Supervisor Feedback:_ 
-> 
-
----
-
-## ✍️ Sign-Off
-
-- [ ] Supervisor has emailed a copy of this report to GPD?
+Current work
+https://docs.google.com/spreadsheets/d/1_bfR_eUI4qMsYfptWWA_zzu2oQ6icJSQA18LdZmZPZg/edit?gid=0#gid=0
