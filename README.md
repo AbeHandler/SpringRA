@@ -6,6 +6,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - [Overview](#overview)
 - [Logistics](#logistics)
 - [Notes](#notes)
+- [Review Notes](https://docs.google.com/document/d/1kJazXpFOnJ2ozN9xtft6HwnSDVSVOhESKq__Ts6b1RQ/edit?usp=sharing)
 
 # Overview
 
