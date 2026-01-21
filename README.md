@@ -7,6 +7,8 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - [Logistics](#logistics)
 - [Notes](#notes)
 - [Review Notes](https://docs.google.com/document/d/1kJazXpFOnJ2ozN9xtft6HwnSDVSVOhESKq__Ts6b1RQ/edit?usp=sharing)
+- [Review Paper Spreedsheet](https://docs.google.com/spreadsheets/d/1_bfR_eUI4qMsYfptWWA_zzu2oQ6icJSQA18LdZmZPZg/edit?usp=sharing)
+- [Review Paper Folder](https://www.dropbox.com/scl/fo/fe15fwx33p0z0l1tzy7nk/ACfOXXnYg-SBxpCXbe-pisg?rlkey=9x8gzdta5v1on957f7a4s6qxf&dl=0)
 
 # Overview
 
