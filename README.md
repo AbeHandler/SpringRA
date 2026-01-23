@@ -10,6 +10,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - [Attention Paper Spreedsheet](https://docs.google.com/spreadsheets/d/1_bfR_eUI4qMsYfptWWA_zzu2oQ6icJSQA18LdZmZPZg/edit?usp=sharing)
 - [Attention Paper Folder](https://www.dropbox.com/scl/fo/fe15fwx33p0z0l1tzy7nk/ACfOXXnYg-SBxpCXbe-pisg?rlkey=9x8gzdta5v1on957f7a4s6qxf&dl=0)
 - [Attention Economy Paper Folder](https://www.dropbox.com/scl/fo/jh8ssynk06xb53tcfsayi/AH2FOHiGjMUblAcF-3aCUE4?rlkey=umj6a8b77qktmhly7a3zer2rv&dl=0)
+- [Attention Economy Press List](https://docs.google.com/document/d/185D7Wa7mvrD8LVodUDSHrIF5NUc8iBG-7rMf-vj8p0c/edit?usp=sharing)
 
 # Overview
 
