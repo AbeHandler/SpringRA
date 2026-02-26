@@ -16,6 +16,7 @@ _Are people rationally allocating their attention to deal with boredom/find info
 - [Platform Attention](https://docs.google.com/spreadsheets/d/1tzrZmj7pvX5v5r147nGMR1I1pJjLaidDZ3Ra0oXUe3k/edit?usp=sharing)
 - [Stakeholder Attention](https://docs.google.com/presentation/d/127_p4G_TPNmJmBXGdzQrCgaxljYuzClUTFyenKi0cAw/edit?usp=sharing)
 - [Attention Economy Definition](https://docs.google.com/document/d/1b7Aq4a-7mi_YAcDAv3F26jbnkEYwvZOv2vucd0Wdvp4/edit?usp=sharing)
+- [Diagram](https://docs.google.com/presentation/d/1d6gGIANblfnsAVZWDa3GnVVN5PagIS6e_rWQQj2Lv54/edit?usp=sharing)
 
 # Overview
 
